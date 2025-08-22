@@ -6,7 +6,7 @@ Soy **Josué Pineda**, un desarrollador full stack con experiencia en diversas t
 
 ### 🌐 Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jpineda1388)
-[![Website](https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome)](https://www.superqueques.com)
+[![Website](https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome)](https://devjp.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:jpineda1388@gmail.com)
 
 ### 🛠️ Tecnologías y Herramientas
